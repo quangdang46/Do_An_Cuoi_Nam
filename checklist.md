@@ -1,0 +1,16 @@
+- Based on Docker; One-click deployment
+- Separated backend and frontend; Modular programming; Microservice
+- ACM/OI rule support; real-time/non-realtime rank support
+- Amazing charting and visualization
+- Template-problem support
+- More reasonable permission control
+- Multi-language support: C, C++, Java
+- Markdown & MathJax support
+- Contest participant's IP limit(CIDR)
+- Online IDE
+- DIY About Us Page
+- Optional Theme
+- Sighing System
+- Experience system
+- Title System
+- Standard IO/File IO
